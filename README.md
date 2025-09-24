@@ -1,2 +1,4 @@
-# github
-practice
+# git\&GitHub 연습을 위한 저장소
+
+작성일자 25.09.24
+
